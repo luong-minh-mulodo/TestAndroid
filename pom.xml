@@ -41,6 +41,7 @@
 
     <modules>
         <module>khongbiet</module>
+	<module>TestKhongBiet</module>
     </modules>
 
     <properties>
