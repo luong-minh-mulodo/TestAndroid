@@ -6,8 +6,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <version>1.0</version>
-    <groupId>>com.example.khongbiet</groupId>
-    <artifactId>>com-example-khongbiet-parent</artifactId>
+    <groupId>com.example.khongbiet</groupId>
+    <artifactId>com-example-khongbiet-parent</artifactId>
     <name>RecipeBot parent</name>
     <packaging>pom</packaging>
 
