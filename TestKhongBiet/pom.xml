@@ -5,7 +5,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>com-example-khongbiet-test</artifactId>
+    <artifactId>com-example-khongbiet-TestKhongBiet</artifactId>
     <name>TestKhongBiet</name>
     <packaging>apk</packaging>
 
