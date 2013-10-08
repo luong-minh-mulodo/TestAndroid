@@ -26,8 +26,8 @@ public class CalculatorTest extends TestCase {
 	public void testNotNull() {
 		mCalculator = new Calculator();
 		assertNotNull("object should not null", mCalculator);
-		assertEquals("should be Equals", mCalculator.getFirstNumber(), 90);
-		assertEquals("should be Equals", mCalculator.getSecondNumber(), 90);
+		assertEquals("should be Equals", mCalculator.getFirstNumber(), 0);
+		assertEquals("should be Equals", mCalculator.getSecondNumber(), 0);
 	}
 
 	public void testAdd() {
