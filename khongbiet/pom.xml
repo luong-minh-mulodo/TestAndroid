@@ -10,11 +10,11 @@
     <name>khongbiet</name>
     <url>https://github.com.cmput301.recipebot</url>
 
-   <parent>
+    <parent>
         <version>1.0</version>
-        <groupId>com.example.khongbiet</groupId>
-        <artifactId>com.example.khongbiet</artifactId>
-    </parent> 
+        <groupId>com.example.khongbiet/groupId>
+        <artifactId>com-example-khongbiet-parent</artifactId>
+    </parent>
 
     <properties>
         <abs.version>4.2.0</abs.version>
