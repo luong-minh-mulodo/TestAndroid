@@ -5,16 +5,16 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>com-cmput301-recipebot</artifactId>
+    <artifactId>com.example.khongbiet</artifactId>
     <packaging>apk</packaging>
-    <name>RecipeBot app</name>
+    <name>khongbiet</name>
     <url>https://github.com.cmput301.recipebot</url>
 
-    <parent>
+    <!-- <parent>
         <version>1.0</version>
-        <groupId>com.cmput301.recipebot</groupId>
-        <artifactId>com-cmput301-recipebot-parent</artifactId>
-    </parent>
+        <groupId>com.example.khongbiet</groupId>
+        <artifactId>com.example.khongbiet</artifactId>
+    </parent> -->
 
     <properties>
         <abs.version>4.2.0</abs.version>
