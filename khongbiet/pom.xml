@@ -12,7 +12,7 @@
 
     <parent>
         <version>1.0</version>
-        <groupId>com.example.khongbiet/groupId>
+        <groupId>com.example.khongbiet</groupId>
         <artifactId>com-example-khongbiet-parent</artifactId>
     </parent>
 
